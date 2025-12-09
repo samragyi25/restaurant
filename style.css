@@ -1,0 +1,60 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #fff7ee;
+}
+
+header {
+    background: #ff7f50;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home, .content {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.card, .review {
+    background: white;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.form-box {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+form input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background: #ff7f50;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
